@@ -143,4 +143,4 @@ When migrating this application away from your local development environment int
 
 ## 📄 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. Copyright (c) 2026 Suman Anand
